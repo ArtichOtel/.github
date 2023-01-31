@@ -1,0 +1,2 @@
+# .github
+Puplic informations
