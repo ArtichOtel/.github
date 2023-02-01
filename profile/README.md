@@ -1,4 +1,4 @@
-# .github
+# ArtichOtel
 Puplic informations
 
 KANBAN Backlog / Todo / In pro / Test / Done
