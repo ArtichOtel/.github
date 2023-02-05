@@ -16,3 +16,7 @@ https://www.figma.com/file/TzwDHkYEMmzBJAqeQnttQA/ArtichOtel
 Notes relatives au projet : 
 https://trello.com/b/JVlwgVMq/sprint-1
 
+## 🛠️ Tech Stack
+- [Laravel](https://laravel.com/)
+- [Vue.js](https://vuejs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
