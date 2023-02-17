@@ -18,6 +18,8 @@ https://trello.com/b/JVlwgVMq/sprint-1
 
 [Deployement Doc](https://gist.github.com/MalikAza/63de9308a72e9775c7b53f1c3880ba2c)
 
+[codepen hexa to filter for svg change color](https://codepen.io/sosuke/pen/Pjoqqp)
+
 ## 🛠️ Tech Stack
 - [Laravel](https://laravel.com/)
 - [Vue.js](https://vuejs.org/)
