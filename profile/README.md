@@ -23,4 +23,6 @@ https://trello.com/b/JVlwgVMq/sprint-1
 ## 🛠️ Tech Stack
 - [Laravel](https://laravel.com/)
 - [Vue.js](https://vuejs.org/)
+- [React Native](https://reactnative.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://reactnative.dev/docs/typescript)
