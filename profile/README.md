@@ -24,5 +24,5 @@ https://trello.com/b/JVlwgVMq/sprint-1
 - [Laravel](https://laravel.com/)
 - [Vue.js](https://vuejs.org/)
 - [React Native](https://reactnative.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
+- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>[Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://reactnative.dev/docs/typescript)
