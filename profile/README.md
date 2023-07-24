@@ -18,6 +18,8 @@ https://trello.com/b/JVlwgVMq/sprint-1
 
 [Deployement Doc](https://gist.github.com/MalikAza/63de9308a72e9775c7b53f1c3880ba2c)
 
+**Mobile** : [Expo Deployement](https://docs.expo.dev/eas-update/getting-started/)
+
 [codepen hexa to filter for svg change color](https://codepen.io/sosuke/pen/Pjoqqp)
 
 ## 🛠️ Tech Stack
